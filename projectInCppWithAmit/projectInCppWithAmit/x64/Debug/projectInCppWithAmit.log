@@ -1,7 +1,0 @@
-﻿  friend.cpp
-C:\Users\asafr\source\repos\projectInCppWithAmit\projectInCppWithAmit\friend.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\asafr\source\repos\projectInCppWithAmit\projectInCppWithAmit\friend.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\asafr\source\repos\projectInCppWithAmit\projectInCppWithAmit\friend.cpp(106,19): warning C4018: '<': signed/unsigned mismatch
-C:\Users\asafr\source\repos\projectInCppWithAmit\projectInCppWithAmit\friend.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\asafr\source\repos\projectInCppWithAmit\projectInCppWithAmit\friend.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
-  projectInCppWithAmit.vcxproj -> C:\Users\asafr\source\repos\projectInCppWithAmit\x64\Debug\SocialNetwork.exe
